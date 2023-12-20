@@ -1,0 +1,19 @@
+{
+    "manifest_version":3,
+	"name":"Find the fucking sauce",
+	"version":"1.0.1",
+	"description":"Find the fucking sauce",
+    "action":{
+        "default_popup":"html/popup.html"
+	},
+	"icons":{
+		"16":"img/logo.png",
+		"32":"img/logo.png",
+		"48":"img/logo.png",
+		"128":"img/logo.png"
+	},
+	"background":{
+		"service_worker":"background.js"
+	},
+	"permissions":["tabs","contextMenus"]
+}
