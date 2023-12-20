@@ -1,9 +1,11 @@
 {
   "name": "sauce-inquiring",
+  "homepage": "https://blackishgreen33.github.io/Sauce-Inquiring",
   "private": true,
   "version": "2.0.1",
   "type": "module",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
@@ -25,6 +27,7 @@
     "eslint": "^8.55.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+    "gh-pages": "^6.1.0",
     "terser": "^5.26.0",
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
