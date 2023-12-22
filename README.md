@@ -5,7 +5,7 @@
   <br />
   <br />
   
-  ![license](https://img.shields.io/github/license/BlackishGreen33/Sauce-Inquiring)
+  
   ![language](https://img.shields.io/github/languages/top/BlackishGreen33/Sauce-Inquiring)
   ![last](https://img.shields.io/github/last-commit/BlackishGreen33/Sauce-Inquiring)
   
